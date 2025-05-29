@@ -43,7 +43,3 @@ The following pre-trained CNN architectures were fine-tuned on the dataset using
 - ✅ Final ensemble prediction script for inference
 - ✅ Plots of per-model performance included
 
----
-
-## 📂 Repository Structure
-
