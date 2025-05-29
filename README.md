@@ -1,4 +1,4 @@
-# HealthyCrop: An Ensemble-Based Deep Learning System for Plant Disease De
+# HealthyCrop: An Ensemble-Based Deep Learning System for Plant Disease Detection
 
 This repository contains the full implementation of **HealthyCrop**, an ensemble-based image classification system for detecting plant diseases from RGB leaf images. The system leverages the strengths of 7 state-of-the-art CNN architectures to maximize accuracy through majority voting.
 
